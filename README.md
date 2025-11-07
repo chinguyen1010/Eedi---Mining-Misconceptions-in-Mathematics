@@ -1,5 +1,9 @@
-# Eedi---Mining-Misconceptions-in-Mathematics
-Develop an NLP model driven by ML to accurately predict the affinity between misconceptions and incorrect answers (distractors) in multiple-choice questions. This solution will suggest candidate misconceptions for distractors, making it easier for expert human teachers to tag distractors with misconceptions.
+# Eedi-Mining Misconceptions in Mathematics (host by The Learning Agency Lab)
+
+Develop an NLP model driven by ML to accurately predict the affinity between misconceptions and incorrect answers (distractors) in multiple-choice questions. This solution will suggest candidate misconceptions for distractors, making it easier for expert human teachers to tag distractors with misconceptions. Predict affinity between misconceptions and incorrect answers (distractors) in multiple-choice questions
+
+
+<img width="560" height="280" alt="image" src="https://github.com/user-attachments/assets/b55c4c80-70f9-4555-8bbd-f3fc6c7c8a32" />
 
 
 <img width="734" height="471" alt="Screenshot 2025-11-07 at 12 26 33 AM" src="https://github.com/user-attachments/assets/c133f0f8-9700-4d6d-b8b0-abffc8a4523d" />
